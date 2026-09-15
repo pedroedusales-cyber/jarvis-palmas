@@ -1,0 +1,93 @@
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.project
+.pydevproject
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.hypothesis/
+
+# Logs
+logs/
+*.log
+log/
+
+# Data
+data/
+*.db
+*.sqlite
+*.sqlite3
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.bak
+
+# OS
+.DS_Store
+Thumbs.db
+.directory
+
+# Documentation
+site/
+docs/_build/
+
+# Node modules (if using JavaScript)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Audio files (optional)
+*.wav
+*.mp3
+*.flac
+
+# Cache
+.cache/
+*.cache
